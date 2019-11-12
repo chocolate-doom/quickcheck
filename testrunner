@@ -25,7 +25,7 @@ $SOURCE_PORT -iwad miniwad.wad \
              -mb 32 \
              -nodraw -noblit -nosound -noautoload -nogui -nograbmouse \
              -statdump statdump.txt \
-	     "$@" >log.txt >>errs.txt || true
+	     "$@" >log.txt 2>errs.txt || true
 
 if [ ! -e statdump.txt ]; then
 	(echo "No statdump output produced.";
