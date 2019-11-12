@@ -27,7 +27,7 @@ output/cydreams.txt: $(SOURCE_PORT)
 
 output/d2twid.txt: $(SOURCE_PORT)
 	./testrunner pwads/d2twid.zip demos/30id-4525.zip -- \
-	     -merge D2TWID.wad -timedemo 30id-4525.lmp >$@
+	     -nodehlump -merge D2TWID.wad -timedemo 30id-4525.lmp >$@
 
 output/eternal.txt: $(SOURCE_PORT)
 	./testrunner pwads/eternal.zip demos/etall-21854.zip -- \
