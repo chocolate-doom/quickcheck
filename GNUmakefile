@@ -12,7 +12,7 @@ OUTPUTS=output/av.txt \
         output/pl2.txt
 
 check: $(OUTPUTS)
-	diff -x .gitignore -ur output expected
+	diff -x .gitignore -ur expected output
 
 clean:
 	rm -rf $(OUTPUTS)
