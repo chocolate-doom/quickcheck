@@ -112,7 +112,7 @@ OUTPUTS += output/pl2.txt
 wads: $(WADS)
 
 check: $(OUTPUTS)
-	@diff -q -x .gitignore -ur expected output && echo all tests passed
+	@diff -q -x .gitignore -r expected output && echo all tests passed
 
 clean:
 	rm -rf output/* extract/*
