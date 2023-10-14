@@ -12,7 +12,7 @@ all: check
 
 extract/%:
 	unzip $(UNZIPOPTS) $< $(subst extract/,,$@)
-	touch $@
+	@touch $@
 
 extract/miniwad.wad: miniwad.zip
 testrunner: $(SOURCE_PORT) extract/miniwad.wad
