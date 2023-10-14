@@ -3,7 +3,7 @@ export SOURCE_PORT=/usr/games/chocolate-doom
 
 # Quiet output, convert to lower case, don't restore timestamps,
 # overwrite without prompt, extract to extract/ directory.
-UNZIPOPTS = -q -LL -DD -o -d extract
+UNZIPOPTS = -q -LL -o -d extract
 
 OUTPUTS =
 WADS = extract/miniwad.wad
@@ -12,6 +12,7 @@ all: check
 
 extract/%:
 	unzip $(UNZIPOPTS) $< $(subst extract/,,$@)
+	touch $@
 
 extract/miniwad.wad: miniwad.zip
 testrunner: $(SOURCE_PORT) extract/miniwad.wad
