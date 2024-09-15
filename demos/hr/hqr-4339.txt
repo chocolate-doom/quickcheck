@@ -1,0 +1,57 @@
+			   Hell quickly Revealed
+			   ---------------------
+                       <http://PlanetQuake.com/QdQ/>
+		 <http://www.geocities.com/Hollywood/4704/>
+
+Hell Revealed is a full 32-level megawad for Doom2, created by Yonatan
+Donner and Haggay Niv. If you don't have it, you'll have to download
+it from <http://www.geocities.com/Hollywood/4704/hr.html> in order to
+watch this speedrun.
+
+Hell quickly Revealed is a speedrun demo of all 32 levels in one
+sitting in 43:39 minutes. Since in Doom it's not possible to connect
+recordings together, I had to record all the levels in a row, which is
+why many parts of this recording could be improved. Also, I used skill
+1, because that's the most suitable skill in Hell Revealed for
+speedrunning.
+
+To play this demo, extract HR.ZIP and HQR-4339.zip into your Doom2
+directory and type:
+doom2 -file hr.wad -playdemo hqr-4339
+
+This will show the demo from the beginning to the end.
+
+NOTE: Because of a bug in Doom2, when you play all 32 levels in a row,
+the skies won't change, which creates very weird visual effects that
+aren't supposed to be there (especially visible in a level like
+26). If you want to see the levels as they're supposed to be seen,
+play them yourself.
+
+The times
+---------
+
+Map  Time  Map	Time  Map  Time
+---  ----  ---	----  ---  ----
+1    0:13  12	1:11  21   0:33
+2    1:09  13	1:06  22   1:43
+3    1:32  14	2:35  23   2:14
+4    0:46  15	2:12  24   0:42
+5    1:50  31	2:28  25   2:51
+6    1:09  32	0:09  26   2:03
+7    1:10  16	1:53  27   1:16
+8    0:41  17	1:42  28   0:41
+9    1:38  18	1:59  29   1:43
+10   0:40  19	0:33  30   0:33
+11   2:44  20	1:00
+
+Credits
+-------
+Hell quickly Revealed was recorded by Yonatan Donner
+<ruthd@post.tau.ac.il>
+
+Thanks to Frank Siebers who gave me the idea of making a Hell Revealed
+movie, everyone who played it and emailed me about it and everyone who
+participated in the level 25 contest
+(http://www.geocities.com/Hollywood/contest.html).
+
+If you think you can record a better run, please do and mail it to me.

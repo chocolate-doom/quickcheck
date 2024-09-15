@@ -1,0 +1,54 @@
+Player: ELMLE
+Port: prboom-plus 2.5.1.5
+Run: ETERNALL.WAD D2ALL UV-Speed
+Time: 2:18:54
+-----Notes-----
+Given the length of this run I played it pretty safe throughout, still had quite a few close calls.
+Maps 1 through 4 are pretty reset heavy, after that its (mostly)smooth sailing until about map 19.
+Lets go over what went wrong...
+
+Map 03: Ran into some issue where I couldn't stop moving forward, I think its related to me using
+livesplit and possibly clicking out of the window during intermission screen.
+Haven't had this issue before switching to v2.5.1.5.
+
+Map 04: Killed some unnecessary enemies near the start because I was considering getting the secret
+soulsphere but I ended up skipping it.
+
+Map 07: Cacodemon teleporting right in my face as i fire a rocket...
+
+Map 09: Enemies getting in my way(and nearly killed me) in the last area.
+
+Map 11: Misjudged how much damage I did to the cybers at the end, I also may have taken a bathroom break
+during the intermission screen.
+
+Map 12: Came up with a safe way of getting yellow key because I was unable to consistently
+get out of the cage like ToD did in the IL.
+I backtrack for a megasphere after getting to the exit because I need to have about 320+ total
+health when entering the next level for the voodoo doll to survive the death exit.
+
+Map 15: Screwed up the bfg strat in the chaingunner cage so I lost a bunch of health.
+Cybers were not cooperating at the exit.
+
+Map 32: Had the same issue as in map 3.
+
+Map 17: Door + Rocket = Bad
+
+Map 19: Got absolutely demolished by some rev rockets but luckily managed to go back for a berserk pack.
+Then lost souls appeared from somewhere while fighting the cyber, never saw those in practice.
+Tried to get the green armor but failed miserably and gave up.
+
+Map 20: Some minor panicking.
+
+Map 22: Getting blasted at the exit.
+
+Map 23: Did a ridiculous accidental archvile dodge after red portal.
+
+Map 25: Trouble with the blue key and the fire didn't go away in the "trapped office" for some reason.
+
+Map 26: Clearing enemies at the start so the voodoo doll doesn't get pushed back into the crusher.
+Failing my "skip" in the yellow key building for like a full minute, giving up and going the normal
+way instead. Almost got killed after grabbing the blue key.
+
+Map 27: A door got closed that wasn't supposed to get closed, monsters probably messed with it somehow.
+
+All in all, took me less than 40 attempts. I'm gonna be happy with that.

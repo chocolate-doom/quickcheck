@@ -1,0 +1,54 @@
+Doomed Speed Demos Archive
+http://doomedsda.us/
+-------------------------------------------
+Pwad:	MM2.WAD 
+Pwad name: Memento Mori 2
+Maps:	01-30
+Skill:	4
+Category:	No Monsters
+Exe:      	PRboom+ 2.5.1.4 cl2
+	with advanced HUD
+-------------------------------------------
+Time:     	49:38
+-------------------------------------------
+Comments:  
+I want to kill myself after doing this run. I got lost a lot in episode 1 since I hadn't played it in quite a while, and everything else isn't too bad, but then MAP28 happens. I was going to redo it, but I'm tired of resetting on the MAP09 trick, and unfortunately, my first rusted up attempt was the one that got the trick. I'll redo this again sometime later, most likely, if no one else does.
+
+
+MAP01 - 0:19 / 0:19  
+MAP02 - 0:41 / 1:00  
+MAP03 - 1:54 / 2:54 
+MAP04 - 1:01 / 3:55  
+MAP05 - 1:41 / 5:36  
+MAP06 - 3:21 / 8:57
+MAP07 - 2:21 / 11:18
+MAP08 - 0:52 / 12:10 
+MAP09 - 0:21 / 12:31 
+MAP10 - 1:09 / 13:40
+MAP11 - 1:06 / 14:46  
+MAP12 - 0:39 / 15:25  
+MAP13 - 1:04 / 16:29  
+MAP14 - 1:39 / 18:08  
+MAP15 - 1:15 / 19:23  
+MAP16 - 0:51 / 20:14
+MAP17 - 0:50 / 21:04 
+MAP18 - 1:27 / 22:31
+MAP19 - 4:04 / 26:35  
+MAP20 - 0:47 / 27:22    
+MAP21 - 1:26 / 28:48
+MAP22 - 3:04 / 31:52  
+MAP23 - 0:08 / 32:00
+MAP24 - 1:06 / 33:06
+MAP25 - 2:00 / 35:06
+MAP26 - 2:45 / 37:51
+MAP27 - 0:33 / 38:24
+MAP28 - 8:27 / 46:51
+MAP29 - 1:36 / 48:27
+MAP30 - 1:11 / 49:38
+
+-------------------------------------------
+Author:    Cyberdemon531
+cyberdemon@boun.cr
+http://www.twitch.tv/cyberdemon531
+https://www.youtube.com/user/Cyberdemon531
+

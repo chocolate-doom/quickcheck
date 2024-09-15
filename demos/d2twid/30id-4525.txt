@@ -1,0 +1,71 @@
+Doom 2 the Way id Did UV-speed movie
+
+30id-4525.lmp
+
+played by William "crate" Striegl
+
+Recorded using cndoom version 2.0.2.1
+
+Map 01 - Loading Bay: 		0:07
+Map 02 - The Compound: 		1:04
+Map 03 - Water Main:		1:12
+Map 04 - The Siltyards:		0:51
+Map 05 - The Boiler: 		1:43
+Map 06 - The Gorge:			1:59
+Map 07 - Counterpoint:		1:28
+Map 08 - Quarantine:		1:57
+Map 09 - The Gambit: 		1:06
+Map 10 - Reservoirs:		1:08
+Map 11 - The Garrison:		1:05
+Map 12 - The Shipyard:		1:27
+Map 13 - The Wharf:			1:17
+Map 14 - Flooded Library:	0:21
+Map 15 - The Causeway:		0:21
+Map 16 - Cul-de-sac:		1:48
+Map 17 - The Precinct:		1:56
+Map 18 - The Sanctum:		3:00
+Map 19 - Bedlam:			1:47
+Map 20 - Leap of Faith:		2:13
+Map 21 - Passage to Exile:	1:08
+Map 22 - Borderlands:		1:08
+Map 23 - The Crucible:		1:56
+Map 24 - Crushed Spirits:	0:40
+Map 25 - Dead Sea:			2:15
+Map 26 - Damned Strait!:	2:17
+Map 27 - The Bloodwash:		1:15
+Map 28 - Abyss:				2:34
+Map 29 - The Mortal Coil:	2:59
+Map 30 - Hell on Earth:		1:23
+--------------------------------
+Total					   45:25
+
+You will notice a lot of levels begin with me saving the game. I did this for two reasons: 1) I was streaming and want to finish runs occasionally on-stream even if I die, and 2) I was not entirely expecting to get this deathless just yet! If you like, you can watch the recorded livestream of this run here: http://www.twitch.tv/crate3333/c/3767310
+
+Notes:
+Map 01-02: Nothing special here. I need rockets later so I take the map 02 secret for them, but the rocket launcher in the next map is easier to get.
+Map 03: Thanks to Krankdud for pointing out the very obvious switch press in the final room
+Map 04: My jump to the blue key was blocked by an imp :( Unfortunately they did not bunch up for my rocket to kill them earlier.
+Map 05: I did the blue key trigger skip the wrong way but it worked. I take some slow routes here because this level kills me very often. I need to save the blue armor for the map 06 RJ so I pick it up before I leave.
+Map 06: This map is probably the biggest reset point. The revenant at the beginning cooperated this time and let me kill him. Thanks to dew for his nomo demo of the beta for showing me this setup for the rocket jump, it is much better than what I was using before. I'd never before seen so many dead enemies at the rj landing point but I'm not complaining.
+Map 07: This is the best reliable route I came up with for this map, but I am not good at maxing so probably there are better things to do. Having to kill all the monsters is not exciting for me so I don't care much to find anything better. The megasphere is saved to make map 08 more consistent.
+Map 08: Thanks again to dew for his beta demos ... I had found this route on my own but for some reason discarded it as not a good idea when in fact it is better than what I was using before.
+Map 09-11: Reasonably easy, the only notable thing is I rocket myself in the face in map 11 but thankfully it turned out to not be a problem.
+Map 12: Thanks to Krankdud for the route. I hate the sr50 switch press to get on the pain elemental platform, and then I almost created disaster by forgetting to grab the red key! A helpful lost soul triggered the lift for me afterward and saved the run. I failed to skip the trap at the blue key so that cost me plasma and time.
+Map 13: A very silly mistake at the beginning, but very easy otherwise. I like this map, it's just a nice little runaround.
+Map 14-15: Two short easy maps, and map 15 even gives you health and a blue armor!
+Map 16: More runaround, I got to the red key area at a pretty good timing so it went pretty fast.
+Map 17: This is the place where grabbing the map 09 BFG really saves time and runs. Killing all the hitscanners at the start with other methods is slow and dangerous, and not having to grab the BFG at the end is good too.
+Map 18: The biggest mistake in the run :( I fall off the ledge the first time while trying to position myself for the sr50 to the red key, then miss the jump in an unrecoverable way the second time so I have to get the blue key to finish the level.
+Map 19: The hell knight near the first switch almost ended the run. Since I had such low health I needed to be very careful with the cacodemons after getting the yellow key, and then I was careful in the yellow door section also.
+Map 20-21: Nothing went too badly here. I use the route I use in Map 21 to be at 200/200 for Map 22.
+Map 22: The jump to the middle structure (after the blue key "locked" teleporter) is my least-favorite thing in the run. I purposely waste time on the platform to get the lost souls out of the way.
+Map 23: I took too much damage at the start so I had to be very careful until I got the blue key. I don't use the keygrab because it costs me too much health so I would almost certainly die later.
+Map 24: I found this switch press on my own but I would not have looked for it except for dew's cryptic comment in the d2twid beta thread. It is quite the trick ... you press the edge of the switch through the wall the same way you press the e2m6 exit switch after the void glide. Turns a lengthy, difficult level into a short, easy one!
+Map 25: Pretty easy. I could skip the soulsphere but I want to be extra safe, sometimes I miss and rocket a wall when shooting at the revenants.
+Map 26: At the end I go back to grab the soulsphere secret because 1) I have to wait for the bridge anyway so this does not actually cost much time and 2) it usually pulls the cacos/pain elementals away from the bridge.  Also it keeps me topped up on health for the next level, which turned out to be very important.
+Map 27: Disaster! I misplay the red key section and then get unavoidably clawed by the hell knight after teleporting. Good thing the rest of the map is pretty easy.
+Map 28: I almost made this into disaster as well, since I missed my jump to the yellow key entirely. The end keeps health and armor high for map 29 though as long as you survive to get there. You can rocket jump onto the already-raised platform instead of riding the middle platform up but I did not want to risk it and make map 29 harder also.
+Map 29: 4% health had me super nervous. After that, the archvile refused to go in front of the other enemies like he usually does, so he got a hit on me. Possibly my nerves were affecting me more than I thought, since this is three maps in a row now that went horribly wrong in some way.
+Map 30: Got the two-cycle kill, which is really all I ask on this map.
+
+On the whole I'm pretty happy with how this run went except for map 18. There is a lot that can go wrong over the course of the run so dodging enough bullets to get a demo at all is not half bad :)

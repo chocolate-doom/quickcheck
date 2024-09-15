@@ -1,0 +1,46 @@
+PWAD:		hr2final.wad
+PWAD Name:	Hell Revealed II
+Map:		Movie 01-32
+Skill:		2
+Category:	HNTR-Max
+Exe:		PrBoom+ v2.5.1.5
+Time:		2:29:44
+
+-complevel 2
+
+Author: tchkb
+
+
+
+MAP01: 1:11
+MAP02: 1:08
+MAP03: 2:10
+MAP04: 2:10
+MAP05: 1:11
+MAP06: 1:47
+MAP07: 2:44
+MAP08: 1:56
+MAP09: 4:08
+MAP10: 2:16
+MAP11: 2:09
+MAP12: 3:26
+MAP13: 3:30
+MAP14: 3:56
+MAP15: 9:13
+MAP31: 7:24
+MAP32: 8:03
+MAP16: 5:28
+MAP17: 3:35
+MAP18: 5:08
+MAP19: 7:40
+MAP20: 3:01
+MAP21: 3:25
+MAP22: 5:44
+MAP23: 8:16
+MAP24: 8:20
+MAP25: 4:43
+MAP26: 5:33
+MAP27: 5:24
+MAP28: 16:36
+MAP29: 7:22
+MAP30: 1:07

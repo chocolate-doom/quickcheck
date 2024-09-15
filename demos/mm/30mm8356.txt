@@ -1,0 +1,145 @@
+This is a Doom .LMP "Competition" Entry
+
+30MM8356.TXT
+30MM8356.ZIP
+
+30MM8356.LMP 
+
+Recorded using Doom 2 Version 1.9
+DooM2 -file mm.wad -playdemo with version 1.9
+
+Memento Mori - levels 1-30 on UV skill
+
+01 - The Teleporter            -  :52
+02 - The Bridge                - 1:35
+03 - Interlock                 -  :54
+04 - The Stand                 - 3:47
+05 - Hell's Kitchen            - 1:09
+06 - The Powerstation          - 1:27
+07 - Not That Simple           - 5:02
+08 - And The Dead Shall Rise   -  :53
+09 - Hightech Grave            - 4:05
+10 - The Mansion               -  :35
+11 - Halls of Insanity         - 1:14
+12 - Kinetics                  - 2:37
+13 - The Inmost Dens II        - 3:49
+14 - Aquaduct                  - 2:38
+15 - Karmacoma                 - 4:06
+16 - Stoned                    - 2:47
+17 - House of Thorn            - 2:59
+18 - A Dead Man's Town         - 3:57
+19 - Maltraiter                - 2:10
+20 - Mountain Depot            - 2:00
+21 - Twilight Lab              - 4:02
+22 - The Escape                - 4:11
+23 - Showdown                  - 2:44
+24 - Diehard                   -  :31
+25 - Cesspool                  -  :36
+26 - Between Scattered Corpses - 4:01
+27 - Fort Hades                - 4:17
+28 - City of the Unavenged     - 9:04
+29 - Island of Death           -  :25
+30 - Viper                     - 5:29
+
+Total - 83:56
+
+C-N entry #57, movie run #22.
+
+map01: Nothing to comment here, just the usual run.
+
+map02: Ditto for this map, no problems here.
+
+map03: Another ditto here.
+
+map04: I get the SSG here.. and it serves me well for the rest of the movie. :)
+
+map05: The area past the red key is somewhat cramped, but at least I didn't fall
+       off the bridge this time.
+
+map06: Another fun/easy level to play through.
+
+map07: I started to handle the maze better than I did in the episode run, but that
+       soon dissolved once the mancubi were released.  I get the plasma rifle here.
+
+map08: Pulled off the jump faster here, which was nice.  It's an easy jump, so it
+       got irritating that I missed it a lot before.
+
+map09: All of the cells collected from map07 are used here.
+
+map10: Almost forgot the path here, which was silly because of how short the map
+       is. :)
+
+map11: I take a small sidetrip to a 200% armor, just for a little extra insurance.
+
+map12: This map is terrible, but at least the armor made it much easier.
+
+map13: I can actually use the cells collected in map12 because I already have the
+       plasma rifle.  Nothing to worry about here, especially since I still had
+       some armor from map11.
+
+map14: This map is loaded with cells, so I take the time to kill the cyberdemon at
+       the end rather than try to sneak around him.
+
+map15: A wonderful fillup map, loaded with cells, rockets, and 200/200 at the end.
+
+map16: Another map where it's impossible to run out of cells. :)
+
+map17: Ditto.  I also get a nice megasphere at the end for the somewhat dangerous
+       map18.
+
+map18: This level is probably the most dangerous one from episode 2, although that
+       isn't saying much. :)
+
+map19: The torch at the start grabbed me, so I got pissed and shot it.  Otherwise,
+       nothing much to comment about here.
+
+map20: Once again, the megasphere/invincibility combo works wonders here.  The race
+       to that little alcove before the cyberdemon opens fire is still somewhat
+       questionable.
+
+map21: I play the map faster than in the episode run, mainly because I already have
+       the SSG.
+
+map22: Well, my lack of things to comment about doesn't change much here, just the
+       usual run. :)
+
+map23: WOOHOO!  I finally get the BFG! :)
+
+map24: This is one of those freebie levels that are always welcome in a 30 level run.
+
+map25: Two in a row!  Kickass!
+
+map26: As I mentioned before in IRC, I'm glad I learned about the bridge bug in the
+       yellow key room while practicing the third episode.  It would have really
+       sucked if it happened here.  I kinda panicked when I wanted to leave and one
+       of the bars was still there. :)
+
+map27: I take a small sidetrip to grab a soulsphere, since the archvile got the drop
+       on me somehow. :/
+
+map28: Well, here it is, the beast map in all its glory.  This map pulled off two
+       nasty tricks on me that almost got me killed.  The first was that damn imp
+       that sneaked up behind me while I was firing at the cyberdemon.  I bet he was
+       yelling "HEY, I'VE GOT HIM, HURRY UP AND FIRE YOU SLOW SONOFA BITCH!"  The
+       second was a chaingunner who somehow got revived as a ghost, which never
+       happened when I played the episode run OR the max run. :)
+
+map29: No more freebies after this one, but I'm glad that some of them came late in
+       the wad.
+
+map30: Well, I was pretty tired of playing by the time I got this far, plus my
+       stamina was just about gone, so I had trouble aiming.  I had to take more
+       trips to the ammo room for a megasphere and cells once in a while, but I
+       think living was enough for me after such a long movie. :)
+
+
+I changed the comment structure ever so slightly; I thought having no spaces between
+the maps made it hard to read.  Now, onto the conclusion:
+
+This movie was pretty exausting to do, so I'm glad I was able to do it without
+too many tries.  Believe it or not, this is the first 30mm attempt that got past
+map07!  It was quite a treat, to say the least.  I guess all of the episode
+experience really payed off here. :)
+
+Author: Drew DeVore "stx-Vile"
+E-mail: drwdevore@aol.com

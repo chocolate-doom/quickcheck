@@ -1,0 +1,229 @@
+------------------------------------------------------------------------------
+||UltraViolence-Speed Movie of CyberDreams||
+------------------------------------------------------------------------------
+
+----------------------------------
+||This is a Tools Assisted Demo.||
+----------------------------------
+
+Filename:	30cyx1904.lmp
+Game:		Doom 2 
+Pwad:		Cyber110.wad+Cyber110.deh
+Pwad Name:	CyberDreams
+Skill:		Ultra-Violence
+Maps:		1-30(D2All)
+Category:	UV-Speed (TAS)
+Time:		19:04
+Tools:		Xdre 2, Permanent Strafe50,Strafe50 on turns, SlowMotion,Segmenting. 
+
+-------------------------------------------------
+
+Author:		SuperWeaponDude
+Exe:		PrBoom+ v2.5.1.4 -Complevel 2
+
+-------------------------------------------------
+
+The command I used to play this .lmp using prboom+
+
+"\prboom-plus.exe -iwad doom2.wad -file Cyber110.wad -deh Cyber110.deh  -playdemo 30cyx1904.lmp"
+
+--------
+||TIME||
+--------
+-------------------------------------------------------------------------------------------------------
+Map	-	30cy2115	-	30cyx1904		
+-------------------------------------------------------------------------------------------------------
+
+01	-	0:16		-	0:15.77 (-0:01)
+02	-	0:04		-	0:02.97 (-0:02)
+03	-	0:55		-	0:54.71 (-0:01)
+04	-	0:09		-	0:09.20 (-0:00)
+05	-	0:04		-	0:04.29 (-0:00)
+06	-	0:21		-	0:19.89 (-0:02)
+07	-	0:19		-	0:17.97 (-0:02)
+08	-	1:03		-	1:00.43 (-0:03)
+09	-	0:37		-	0:34.69 (-0:03)
+10	-	0:13		-	0:11.97 (-0:02)
+11	-	1:01		-	0:59.97 (-0:02)
+12	-	1:54		-	1:53.86 (-0:01)
+13	-	0:02		-	0:02.77 (-0:00)
+14	-	0:57		-	0:48.97 (-0:09)
+15	-	0:21		-	0:19.49 (-0:02)
+31	-	skipped		-	skipped (-0:00)
+32	-	skipped		-	skipped (-0:00)
+16	-	0:38		-	0:37.97 (-0:01)
+17	-	1:21		-	1:07.74 (-0:14)
+18	-	0:20		-	0:19.94 (-0:01)
+19	-	0:09		-	0:09.91 (-0:00)
+20	-	0:36		-	0:35.63 (-0:01)
+21	-	0:44		-	0:40.43 (-0:04)
+22	-	0:37		-	0:36.83 (-0:01)
+23	-	3:16		-	3:15.20 (-0:01)
+24	-	0:19		-	0:17.74 (-0:02)
+25	-	0:14		-	0:14.51 (-0:00)
+26	-	0:45		-	0:43.64 (-0:02)
+27	-	1:36		-	0:27.77 (-1:09)
+28	-	1:00		-	0:59.94 (-0:01)
+29	-	0:22		-	0:19.66 (-0:03)
+30	-	1:02		-	1:01.66 (-0:01)
+
+-----------------------------------------------------------------------------------------------------------------
+Total	-	21:15		-	19:04 (-2:11)	
+------------------------------------------------------------------------------------------------------------------
+
+
+------------
+||COMMENTS||
+------------
+
+(09/02/2019)
+
+Again one of my unfinished d2all runs that was hanging around in my hard drive. I remember doing this along with avj and sf2011 tas 3 years back. It had only 3 levels remaining so I decided to complete it. I originally aimed to achieve under 20 minutes but by the looks of it, I guess (if I had put more effort earlier) under 19 would have been more satisfying. 
+
+Luckily I had this txt file intact :p
+
+----------------
+||MAP COMMENTS||
+----------------
+
+Map 1 (Warm up:One on One) - 00:15.77 
+------------------------------------------------------------
+Why kill a cybie when you can really use it?. Optimal time i would say as there is no possibility of going below 15 here unless you find a way to get past that exit board without bumping. This run was the reason i started this d2all in the first place and map 2 further motivated me.
+
+Map 2 (The S-2 Factor) - 00:02.97
+----------------------------------------------------
+Glad that i made good use of that initial wallrun. Got a 3.14 first, then after better gliding and movement i got exactly 3.00. With a bit more effort i made the glide a tic early and got 2.97.
+
+Map 3 (The Bridge Between) - 00:54.77
+------------------------------------------------------------
+I think 53 might be possible but i just dont know how. I could have fencerunned during the first run through the bridge but i did not see much difference. I really would have put more effort if the time was a low 54.
+
+Map 4 (Come on In) - 00:09.20
+----------------------------------------------------------
+I needed to push that barrel aside 10 tics early to achieve 8. But that thing moves only after two punches ;(
+
+Map 5 (Cybers and Holes) - 00:04.29
+------------------------------------------------------------
+3 is possible here, but i did everything i could. Maybe locating precise co-ordinates and moving accordingly without losing speed might help.
+
+Map 6 (John's Lament) - 00:19.86
+---------------------------------------------------------
+I doubt the possibility of 18 with this route but Somehow if you manage to avoid that crusher even 17 looks feasible. There is a 32 unit gap between the crusher and the wall but i felt it doesnt help much anyway. Btw is a glide along a moving crusher possible?
+
+Map 7 (Unusual Friendship) - 00:17.97
+-------------------------------------------------------------
+As kristian ronge stated, better the first infight the better the time is. So if there is any improvement that could be made it depends on how fast you get that cybie to kill all those mancs.
+
+Map 8 (Happy End?) - 1:00.43
+----------------------------------------------------
+Nope. Not a happy ending. Would have wanted this to be under a minute :(
+
+Map 9 (Double Duplex) - 00:34.69
+------------------------------------------------------
+33 might just be possible if you avoid bumping into those cybies like i did. But even this was difficult for me anyways as they can just rocket gib you back to the lift (had to manage rng too).
+
+Map 10 (Escape from Hidden Trinity) - 00:11.97
+-------------------------------------------------------------------------
+A lot of effort tbh. I got a 12.37 which was not good. Then redid again from the second switch and i noticed that i reached the final switch 4 tics earlier and got 12.26 which was still not enough. I realized that the reason for this was the second lift which lowered slowly. Hence i hit the left switch first which helped me to get past the lifts quickly. I still got a 12.14 and then a 12.06 and then 12.03 and again a 12.00. I somehow managed to get 11.97 after sometime. It took me almost 3 hours to optimize this thing. 
+
+Map 11 (Sequential Movements) - 00:59.97
+---------------------------------------------------------------
+I got what i hoped for. Thankfully i did not work as much as map 10 but still got like 60.14,60.03,60.00 etc which really annoyed me. Finally that boost at the end helped me achieve 59.
+
+Map 12 (New Challenge) - 1:53.86
+--------------------------------------------------------
+Optimal i guess. There is no other way to improve this. The biggest problem here is that the platform raises for the next cycle only when the switch is hit after the platform stops. Thus the time would be same for both TAS and non-TAS. I did use the cybie's height factor once to hit the last white switch early so that i dont have to wait for the final switch to open. Doesn't make much difference though. 
+
+Map 13 (After the ring) - 0:02.77
+---------------------------------------------------------
+Not much to improve here so i spent around a couple of minutes.
+
+Map 14 (Satyrs, Gargoyels, Lions and Suffering) - 00:48.97
+-----------------------------------------------------------------------------------------
+I guess this could still be a couple seconds faster but i am pretty much satisfied with the demo.
+
+Map 15 (Four Leaf Clover) - 00:19.49
+-----------------------------------------------------------------
+I dont know how 18 is possible here. At the start I tried using rocket boost from the top of the lift to the exit but to no avail. Its waaayy too far....
+Also i noticed secret exit is not yet done for this map. I am too lazy to do it in a non-TAS IL. So if someone was wondering how to reach it... 
+
+*Warning: Spoiler Ahead*
+Secret exit Route: After killing those cybies and dropping down the lift a red switch opens to the left of the little platform. Hitting that switch opens a teleporter opposite to it where you can teleport to the other end. But make sure you shoot those barrels there before entering the teleporter.
+
+Map 16 (Urbanity) - 00:37.97
+--------------------------------------------
+The idea is the same as that of map 1 but this was a bit difficult. Took me a whole day.
+
+Map 17 (Tic-Tac-Toe) - 01:07.74
+----------------------------------------------------------
+Another good improvement. Major time save was a bit of a change in the strategy on second room. Kill a cybie and hit the switch instead of kill both cybies and hit the switches, so that you dont have to wait for that lift to lower. I do take some damage with this route because the cybie is a bit unpredictable and always attacks you. Maybe 1:05 is possible but i can live with this.
+
+Map 18 (Blocked way to Archi-Tecture) - 00:19.94
+----------------------------------------------------------------------------------
+I think 18 might just be possible. But i was concerned about my health and took the safe way.
+
+Map 19 (Archi-Tecture) - 00:09.91
+--------------------------------------------------------
+Bad Archi and a badass Cybie. Period.
+
+Map 20 (Anti-Clockwise) - 00:35.63
+---------------------------------------------------------------------
+I couldn't find any other way to reduce the time. Maybe 34 is possible.
+
+Map 21 (Bleeding Woods) - 00:40.43
+-------------------------------------------------------------
+39 Seconds should be posible but i took loads of damage and this was the fastest time out. idk why but i felt those cybies were a lot aggressive this time. Also thanks to GrumpyCat's route.
+
+Map 22 (Hot Dog) - 00:36.83
+---------------------------------------------------------
+I thought 37 was optimal but it wasn't.
+
+Map 23 (Hard Descent, Harder Climbings) - 3:15.20
+---------------------------------------------------------------------------------
+I really dont like this map. I know that i did not try as much as i did in other maps because its not fun optimizing this. Its long and boring for TAS. You have to take off tics somewhere here and there and then when you reach the exit you will see a single tic drop. I came from a .83 to .06 and there was no going below. And in the end my frustration got the better of me. Its no excuse for my lazyness though and Im sure 3:14 is possible.
+. 
+Map 24 (Sorry 66% Maximum) - 00:17.74
+-------------------------------
+
+I thought 17 seconds should be possible if the rng co-operates and all cybies attack at the same and the right time. So here we go...
+
+Map 25 (Pure Blood) - 00:14.51
+-----------------------------
+
+No the linedef wont activate the lift until 0.51 tics and hence i beleive it cannot go below this(?)....
+
+Map 26 (The Tough Twins) - 00:43.86
+--------------------------------------------------
+
+Quicker movement and a quicker switch hit....Nothing much happening here.
+
+Map 27 (You see me, You dont!) - 00:27.77
+----------------------------------------------------------
+
+The only real IMPROVEMENT throughout the run. Route credits to JC.
+
+
+(09/02/2019)
+
+Map 28 (The Floatin' Conspiracy) - 00:59.94
+----------------------------------------------
+
+Took way longer to do than expected. Its a full second faster than previous tas. Feels good to get this below a minute.
+
+Map 29 (The way to god's manna) - 00:19.66
+-------------------------------------------
+
+Good map. Enjoyed tas'ing this one.
+
+Map 30 (Resurrection) - 1:01.66
+-------------------------------------
+
+Nothing much happening here.
+
+-------------
+||Credits:||
+-------------
+
+Special thanks Albert Valls and Gonzalo for this wad and their runs. JC and others for tricks that were not in the original demopack.
+
+EOF
