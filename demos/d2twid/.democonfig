@@ -1,0 +1,2 @@
+pwad: d2twid.wad
+extra_args: "-nodehlump"
