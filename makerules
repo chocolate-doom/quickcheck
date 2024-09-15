@@ -1,0 +1,98 @@
+#!/usr/bin/env python3
+#
+# Copyright (C) 2024 Simon Howard
+#
+# This program is free software; you can redistribute it and/or modify it
+# under the terms of the GNU General Public License as published by the
+# Free Software Foundation; either version 2 of the License, or (at your
+# option) any later version. This program is distributed in the hope that
+# it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+# warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#
+
+from glob import glob
+import os
+from os.path import dirname, basename, exists, join
+import shlex
+import sys
+import yaml
+
+def escape_filename(filename):
+    return filename.replace("#", "\\#")
+
+def read_config(path):
+    if path == '':
+        return {}
+
+    # Config deeper in the hierarchy can override config files from
+    # higher up in the hierarchy:
+    result = read_config(dirname(path))
+    config_file = join(path, ".democonfig")
+    if exists(config_file):
+        with open(config_file) as f:
+            result.update(yaml.safe_load(f))
+
+    return result
+
+class Rule:
+    def __init__(self, expect_file):
+        self.out_file = expect_file.replace("expected/", "output/")
+        self.lmp_file = (
+            expect_file.replace("expected/", "demos/")
+                       .replace(".txt", ".lmp"))
+        self.cfg = read_config(self.lmp_file)
+
+    def dependencies(self):
+        yield self.lmp_file
+        yield "$(SOURCE_PORT)"
+        yield join("iwads", self.cfg["iwad"])
+
+        pwad = self.cfg.get("pwad")
+        if pwad is not None:
+            yield join("extract", pwad)
+        deh = self.cfg.get("deh")
+        if deh is not None:
+            yield join("extract", deh)
+
+    def game_arguments(self):
+        result = [
+            "$(DOOMOPTS)",
+            "-statdump", "$@",
+            "-iwad", join("iwads", self.cfg["iwad"]),
+            "-timedemo", "$<"
+        ]
+
+        if "extra_args" in self.cfg:
+            result.extend(shlex.split(self.cfg["extra_args"]))
+
+        if "deh" in self.cfg:
+            result.extend(("-deh", join("extract", self.cfg["deh"])))
+
+        if "gameversion" in self.cfg:
+            result.extend(("-gameversion", self.cfg["gameversion"]))
+
+        if "pwad" in self.cfg:
+            result.extend(("-merge", join("extract", self.cfg["pwad"])))
+
+        return result
+
+    def command(self):
+        args = self.game_arguments()
+        return "$(SOURCE_PORT) " + " ".join(args) + " >/dev/null 2>&1"
+
+    def rule_output(self):
+        result = "%s: %s\n" % (
+            escape_filename(self.out_file), " ".join(
+                escape_filename(f) for f in self.dependencies()),
+        )
+        result += "\t@mkdir -p %s\n" % (shlex.quote(dirname(self.out_file)))
+        result += "\t%s || true\n\n" % self.command()
+        return result
+
+depends_file = sys.argv[1]
+rules = []
+
+with open(depends_file, "w") as f:
+    for filename in sorted(glob("expected/**/*.txt", recursive=True)):
+        r = Rule(filename)
+        f.write(r.rule_output())
