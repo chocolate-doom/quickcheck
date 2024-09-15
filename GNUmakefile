@@ -13,7 +13,7 @@ export SDL_VIDEODRIVER = dummy
 
 SOURCE_PORT_NAME = chocolate-doom
 SOURCE_PORT := $(shell which $(SOURCE_PORT_NAME) || echo missing_source_port)
-DOOMOPTS = -mb 16 -nodraw -noblit -nosound \
+DOOMOPTS = -mb 24 -nodraw -noblit -nosound \
            -noautoload -nogui -nograbmouse -nofullscreen
 
 ALL_DEMOS = $(patsubst %,demos/%,$(shell cat demos.txt))
