@@ -42,14 +42,17 @@ class Rule:
                        .replace(".txt", ".lmp"))
         self.cfg = read_config(self.lmp_file)
 
-    def dependencies(self):
-        yield self.lmp_file
-        yield "$(SOURCE_PORT)"
-        yield join("iwads", self.cfg["iwad"])
-
+    def wads(self):
+        yield join("extract", self.cfg["iwad"])
         pwad = self.cfg.get("pwad")
         if pwad is not None:
             yield join("extract", pwad)
+
+    def dependencies(self):
+        yield self.lmp_file
+        yield "$(SOURCE_PORT)"
+        yield from self.wads()
+
         deh = self.cfg.get("deh")
         if deh is not None:
             yield join("extract", deh)
@@ -91,8 +94,12 @@ class Rule:
 
 depends_file = sys.argv[1]
 rules = []
+all_wads = set()
 
 with open(depends_file, "w") as f:
     for filename in sorted(glob("expected/**/*.txt", recursive=True)):
         r = Rule(filename)
         f.write(r.rule_output())
+        all_wads = all_wads | set(r.wads())
+
+    f.write("wads: %s\n" % shlex.join(all_wads))
