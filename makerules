@@ -43,7 +43,7 @@ class Rule:
         self.cfg = read_config(self.lmp_file)
 
     def wads(self):
-        yield join("extract", self.cfg["iwad"])
+        yield join("iwads", self.cfg["iwad"])
         pwad = self.cfg.get("pwad")
         if pwad is not None:
             yield join("extract", pwad)
